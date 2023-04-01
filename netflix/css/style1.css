@@ -1,0 +1,237 @@
+body{
+    margin: 0px;
+}
+#nav1 li{
+    list-style-type: none;
+    display:inline;
+    color: white;
+    padding: 6px;
+    font-family: sans-serif;
+
+
+}
+
+#nav2 {
+    list-style-type: none;
+    display:inline;
+    color: white;
+    float: right;
+    margin-top:-17px;
+    font-family: sans-serif;
+
+
+
+}
+#logo{
+    font-size: 22px;
+    font-weight: bold;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#big{
+    display: flex;
+    flex-direction: column;
+}
+#main{
+    background-image: url(../images/m2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    height: 830px;
+}
+
+
+
+#exla{
+    display: flex;
+    justify-content: center;
+    width: 169px;
+    height: 46px;
+    background-color: rgba(105, 105, 105, 0.816);  
+    border-radius: 4px;
+    margin-left: 10px; 
+
+}
+
+
+
+#play{
+    display: flex;
+    justify-content: center;
+
+    width: 129px;
+    height: 48px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+#playB{
+    display: flex;
+}
+
+#content{
+    display: flex;
+    margin-top: 404px;
+    margin-left: 60px;
+    column-gap: 798px;
+}
+
+
+#sound1{
+    display: flex;
+    justify-content: center;
+
+    width: 32px;
+    height: 32px;
+    margin-left: 20px;
+    border-radius: 50%;
+    border: 1px solid white;
+     
+}
+
+#sound2{
+    display: flex;
+
+    width: 116px;
+    height: 36px;
+    background-color: rgba(105, 105, 105, 0.816);
+    margin-left: 14px;
+    border-left: 4px solid white;
+}
+
+#soundL{
+    display: flex;
+    
+}
+
+#ss{
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 8px;
+    margin-left: 6px;
+}
+#s{
+    padding-top: 7px;
+}
+
+
+
+
+#p{
+    font-size: 22px;
+    padding-top: 11.3px;
+    padding-right: 10px;
+  }
+
+  #pp{
+
+    font-size: 20px;
+    padding-top: 11.3px;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+  }
+
+
+
+
+
+
+  #i{
+    font-size: 27px;
+    padding-top: 10px;
+    margin-right: 4px;
+  }
+
+  #ii{
+
+    font-size: 16.2px;
+    padding-top: 11.7px;
+    margin-left: 10px;
+    font-family: sans-serif;
+    /* font-weight: bolder; */
+
+
+  }
+
+
+
+
+
+
+  a:link {
+     text-decoration: none;
+     color: white;
+     /* font-weight: bold; */
+
+     }
+
+
+  a:visited {
+    text-decoration: none;
+    color: white;
+     font-weight: bold;
+ }
+  
+  
+  a:hover { text-decoration: none; 
+    color: white;
+     font-weight: bold;
+
+}
+  
+  
+  a:active {
+     text-decoration: none;
+     color: white;
+     font-weight: bold;
+ }
+  
+  #playId{
+    color: black;
+  }
+
+
+
+#lists{
+    background-color: rgba(20, 20, 20, 0.965);
+    height: 2600px;
+}
+
+
+.pic{
+    display: flex;
+    /* overflow-x: scroll;
+    overflow-y: hidden; */
+
+
+}
+
+.pic img{
+    margin-right: 10px;
+}
+
+h3{
+    color: white;
+}
+
+#box1{
+
+    position: relative;
+    padding-top: 120px;
+    margin-bottom: -90px;
+    margin-left: 50px;
+
+}
+#box2{
+    padding-bottom: 46px;
+    margin-left: 50px;
+}
+#no{
+    margin-top: 50px;
+}
+.head{
+    margin-bottom: -13px;
+    margin-left: 10px;
+}
