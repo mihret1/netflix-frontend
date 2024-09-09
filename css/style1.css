@@ -33,6 +33,7 @@ body{
     display: flex;
     flex-direction: column;
 }
+
 #main{
     background-image: url(../images/n1.jpg);
     background-repeat: no-repeat;
